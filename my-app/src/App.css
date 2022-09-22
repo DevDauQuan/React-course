@@ -129,7 +129,7 @@ table {
   border-spacing: 0;
 }
 
-.content {
+/* .content {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 25px;
@@ -171,4 +171,4 @@ table {
 .youtube-author,
 .youtube-info {
   margin: 6px;
-}
+} */
